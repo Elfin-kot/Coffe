@@ -1,0 +1,7 @@
+C:\Users\KlUK\source\repos\FirstOutProgram\bin\Debug\FirstOutProgram.exe.config
+C:\Users\KlUK\source\repos\FirstOutProgram\bin\Debug\FirstOutProgram.exe
+C:\Users\KlUK\source\repos\FirstOutProgram\bin\Debug\FirstOutProgram.pdb
+C:\Users\KlUK\source\repos\FirstOutProgram\obj\Debug\FirstOutProgram.csproj.CoreCompileInputs.cache
+C:\Users\KlUK\source\repos\FirstOutProgram\obj\Debug\FirstOutProgram.exe
+C:\Users\KlUK\source\repos\FirstOutProgram\obj\Debug\FirstOutProgram.pdb
+C:\Users\KlUK\source\repos\FirstOutProgram\obj\Debug\FirstOutProgram.csprojAssemblyReference.cache

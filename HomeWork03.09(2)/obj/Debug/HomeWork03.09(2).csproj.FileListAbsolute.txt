@@ -1,0 +1,6 @@
+C:\Users\KlUK\source\repos\HomeWork03.09(2)\bin\Debug\HomeWork03.09(2).exe.config
+C:\Users\KlUK\source\repos\HomeWork03.09(2)\bin\Debug\HomeWork03.09(2).exe
+C:\Users\KlUK\source\repos\HomeWork03.09(2)\bin\Debug\HomeWork03.09(2).pdb
+C:\Users\KlUK\source\repos\HomeWork03.09(2)\obj\Debug\HomeWork03.09(2).csproj.CoreCompileInputs.cache
+C:\Users\KlUK\source\repos\HomeWork03.09(2)\obj\Debug\HomeWork03.09(2).exe
+C:\Users\KlUK\source\repos\HomeWork03.09(2)\obj\Debug\HomeWork03.09(2).pdb

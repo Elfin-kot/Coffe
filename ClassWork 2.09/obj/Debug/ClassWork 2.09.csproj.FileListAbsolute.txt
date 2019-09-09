@@ -1,0 +1,7 @@
+C:\Users\KlUK\source\repos\ClassWork 2.09\bin\Debug\ClassWork 2.09.exe.config
+C:\Users\KlUK\source\repos\ClassWork 2.09\bin\Debug\ClassWork 2.09.exe
+C:\Users\KlUK\source\repos\ClassWork 2.09\bin\Debug\ClassWork 2.09.pdb
+C:\Users\KlUK\source\repos\ClassWork 2.09\obj\Debug\ClassWork 2.09.csprojAssemblyReference.cache
+C:\Users\KlUK\source\repos\ClassWork 2.09\obj\Debug\ClassWork 2.09.csproj.CoreCompileInputs.cache
+C:\Users\KlUK\source\repos\ClassWork 2.09\obj\Debug\ClassWork 2.09.exe
+C:\Users\KlUK\source\repos\ClassWork 2.09\obj\Debug\ClassWork 2.09.pdb
